@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WikiFilms</string>
+    <string name="trending">Trending</string>
+    <string name="title_activity_nav_test">NavTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="best_of_cinema">Best of Cinema</string>
+</resources>
